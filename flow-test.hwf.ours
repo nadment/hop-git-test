@@ -99,13 +99,8 @@
       <type>DUMMY</type>
       <attributes/>
       <parallel>N</parallel>
-<<<<<<< HEAD
       <xloc>400</xloc>
       <yloc>208</yloc>
-=======
-      <xloc>384</xloc>
-      <yloc>240</yloc>
->>>>>>> 53fefb4f66f3fd88552f49b1ea3c604107940950
       <attributes_hac/>
     </action>
     <action>
